@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhir Kamble</h1>
-<h3 align="center">I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.</h3>
+<h3 align="center">I love the entire process of developing creative websites. </h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 - 🌱 I’m currently learning **Frameworks and some course**
 
 - 👨‍💻 All of my projects are available at [https://sudhirself.netlify.app/](https://sudhirself.netlify.app/)
